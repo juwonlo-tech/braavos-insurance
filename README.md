@@ -26,8 +26,8 @@ The data includes:
 
 ## 📁 Files Included
 
-- `Braavos insurance Report.pbix` – The full Power BI report file  
-- `Braavos Report.pdf` (https://github.com/juwonlo-tech/braavos-insurance/blob/main/Braavos%20Report.pdf)– PDF with selected screenshots of the report pages  
+- `Braavos insurance Report.pbix` – The full Power BI report file available here: https://github.com/juwonlo-tech/braavos-insurance/blob/main/Braavos%20Insurance%20Report.pbix
+- `Braavos Report.pdf` – PDF with selected screenshots of the report pages available here: https://github.com/juwonlo-tech/braavos-insurance/blob/main/Braavos%20Report.pdf
 
 ## 🤲🏾 How to Use
 
